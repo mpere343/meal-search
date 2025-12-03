@@ -8,6 +8,7 @@ const meals = computed(() => store.state.mealsByIngredient)
 
 const route = useRoute()
 
+
 onMounted(() => {
     store.dispatch('searchMealsByIngredient', route.params.ingredient)
 })
