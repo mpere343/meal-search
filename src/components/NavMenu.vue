@@ -9,6 +9,7 @@ import HomePage from '@/views/HomePage.vue';
   </nav>
 </template>
 
+
 <style lang="postcss" scoped>
 nav {
   @apply flex justify-center space-x-4;
