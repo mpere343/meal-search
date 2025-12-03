@@ -38,3 +38,4 @@ onMounted(() => {
 
     <Meals :meals="meals"></Meals>
 </template>
+
