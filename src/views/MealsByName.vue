@@ -26,6 +26,7 @@ onMounted(() => {
 })
 
 
+
 </script>
 <template>
     <div class="p-8 pb-0 text-orange-500">
@@ -38,4 +39,3 @@ onMounted(() => {
 
     <Meals :meals="meals"></Meals>
 </template>
-
