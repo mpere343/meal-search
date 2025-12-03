@@ -27,6 +27,7 @@ const searchIngredients = computed(() => {
         <h1 class="text-4xl font-bold mb-4"> Search Meals By Ingredients</h1>
     </div>
 
+    
     <!-- {{ ingredients }} -->
 
     <div class="p-10">
